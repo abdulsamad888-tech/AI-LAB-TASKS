@@ -1,2 +1,2 @@
-# AI-LAB-01
+# AI-LAB-Task
 TASK NO 1 TO 6  OF LAB AI 
